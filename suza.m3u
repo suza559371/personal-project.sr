@@ -1,4 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-
-logo=”https:// upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/200px-ATN_Bangla.svg.png” group-title=”Bangla”, ATN_ Bangla
-https://tempbtcl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+logo=”https:// upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png” group-title=”Bangla”, BTV
+http://103.230.105.252:1935/live/btv/manifest.mpd
+
+
+#EXTINF:-1 tvg-
+logo=”https:// upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title=”Bangla”, PeaceTV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1 ,ATN Islamic TV
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-
+logo=”https:// upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title=”Bangla”, Deepto TV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+
+logo=”https:// upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title=”Bangla”, GTV
+https://tvs2.aynaott.com/gtvhd/index.m3u8 
