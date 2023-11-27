@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-
-logo=”https:// upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png” group-title=”Bangla”, BTV
 https://tv.durbinlive.com/api/toffee/playlist.php
 
 
